@@ -5,6 +5,5 @@ that have been processed.
 
 For each file you read, you only need to output the 
 summary information eg. "X packages written to file.json".
-
 Screenshot available as process_files.png
 '''
